@@ -1,0 +1,10 @@
+the following scrips are examples and solutions that i came out with, 
+I spend most of my time on T-Sql, 
+this is the reason why i don't have as many mysql scrips,
+
+but the concept it's almost the same ,
+
+just different ways to call fucntions and stored procedures 
+
+
+
